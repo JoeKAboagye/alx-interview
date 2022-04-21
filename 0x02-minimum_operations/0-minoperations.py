@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 """ 
-Produces the minimum time it takes 
-to write operations of 'copy' and 'paste'
+Produces the minimum time it takes to write operations of 'copy' and 'paste'
 """
 
 
